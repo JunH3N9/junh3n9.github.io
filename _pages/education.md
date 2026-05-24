@@ -4,27 +4,24 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-**National University of Singapore (2028-2032)**
-
+**National University of Singapore (2028-2032)** 
 *Bachelor of Science in Geospatial Intelligence*
-- Minor?
-- Exchange?
+*Minor?*
 
 Activities:
 - Team NUS canoeing
 - Team NUS aquathlon
+- Exchange
 - 1 volunteer?
 
-**Ngee Ann Polytechnic (2023-2026)**
-
+**Ngee Ann Polytechnic (2023-2026)** 
 *Diploma in Cybersecurity and Digital Forensics*
-- Certificate in Advanced Computing Mathematics
+*Certificate in Advanced Computing Mathematics*
 
-Water polo
-- President (2025-2026)
-- Vice Captain (2024-2025)
-
-Other CCAs:
+Activities
+- Water polo
+    - President (2025-2026)
+    - Vice Captain (2024-2025)
 - ICT society
 - ORION
 - FoodAID
