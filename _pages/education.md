@@ -4,7 +4,7 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-**National University of Singapore (2028-2032)** 
+**National University of Singapore (2028-2032)** <br>
 *Bachelor of Science in Geospatial Intelligence*
 *Minor?*
 
@@ -14,8 +14,8 @@ Activities:
 - Exchange
 - 1 volunteer?
 
-**Ngee Ann Polytechnic (2023-2026)** 
-*Diploma in Cybersecurity and Digital Forensics*
+**Ngee Ann Polytechnic (2023-2026)** <br>
+*Diploma in Cybersecurity and Digital Forensics*<br>
 *Certificate in Advanced Computing Mathematics*
 
 Activities
@@ -32,5 +32,5 @@ Activities
 - Edusave Good Progress Award (2022)
 - 15th Singapore Junior Physics Olympiad Team Round 2022 - Honourable Mention (2021)
 
-![OSS team photo](/images/OSS team pic.jpg)
+<img src="/images/OSS team pic.jpg" alt="OSS team photo" width="300">
 
