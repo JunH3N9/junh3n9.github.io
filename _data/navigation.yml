@@ -31,10 +31,14 @@
 #    url: /markdown/
 
 main:
+  - title: "Experiences"
+    url: /experience/ 
+
   - title: "Education"
     url: /education/
 
-  - title: "Experiences"
-    url: /experience/   
+  - title: "Certifications"
+    url: /certifications/
+    
 
   
