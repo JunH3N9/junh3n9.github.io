@@ -6,12 +6,15 @@ author_profile: true
 ---
 
 <span style="color: red;">**Intern - In progress**</span>
+
 *Uni Y4*
 
 <span style="color: red;">**Intern - In progress**</span>
+
 *Uni Y2S2 break*
 
 <span style="color: red;">**Intern - In progress**</span>
+
 *Uni Y1S2 break*
 
 **SOC Intern - Housing & Development Board (HDB)**

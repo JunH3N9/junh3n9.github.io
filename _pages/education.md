@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 **National University of Singapore (2028-2032)** <br>
-*Bachelor of Science in Geospatial Intelligence*
+*Bachelor of Science in Geospatial Intelligence*<br>
 *Minor?*
 
 Activities:
@@ -18,7 +18,7 @@ Activities:
 *Diploma in Cybersecurity and Digital Forensics*<br>
 *Certificate in Advanced Computing Mathematics*
 
-Activities
+Activities:
 - Water polo
     - President (2025-2026)
     - Vice Captain (2024-2025)
