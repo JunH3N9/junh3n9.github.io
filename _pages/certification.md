@@ -18,6 +18,12 @@ Kaggle Geospatial Analysis
 
 <img src="/images/Kaggle Geospatial Analysis.png" alt="Kaggle Certificate" width="400">
 
+## Cloud<br>
+
+AWS Cloud Practitioner
+
+AWS Solutions Architect Associate
+
 ## Cybersecurity<br>
 
 Enterprise Security Management
