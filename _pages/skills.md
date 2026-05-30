@@ -1,14 +1,17 @@
 ---
 layout: archive
-title: "skills"
+title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
 **Geospatial and GIS** <br>
-- QGIS
+- <span style="color: red;">QGIS</span>
 - <span style="color: red;">PostGIS</span>
 
 **Data Analytics** <br>
+- Power BI
+- <span style="color: red;">R</span>
+- <span style="color: red;">Tableau</span>
 
 **Programming languages** <br>
 - Python
