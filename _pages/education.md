@@ -6,12 +6,12 @@ author_profile: true
 ---
 **National University of Singapore (2028-2032)** <br>
 *Bachelor of Science in Geospatial Intelligence*<br>
-*Minor?*
+*Second major in Business Analytics?*
 
 Activities:
-- Team NUS canoeing
-- Team NUS aquathlon
-- Exchange
+- Team NUS canoeing?
+- Team NUS aquathlon?
+- Exchange?
 - 1 volunteer?
 
 **Ngee Ann Polytechnic (2023-2026)** <br>
